@@ -18,6 +18,7 @@ span{
   background-color: rgb(21, 21, 21);
   padding: 10px 0;
   color: white;
+  cursor: pointer;
 }
 .nav nav{
   display: flex;
@@ -433,7 +434,7 @@ span{
 }
 /* Side View */
 .side-view{
-  background-image: url("imagess\ 4/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg");
+  background-image: url("../imagess\ 4/side-view-portrait-of-a-woman-with-make-up-CTUMAUJ.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
